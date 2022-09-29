@@ -1,0 +1,30 @@
+h1{
+    text-align: center;
+    font-size: 100px;
+    color: aqua;
+}
+
+body{
+    background-image: url(images/homepage.jpg); width: 100%;
+}
+#main {
+    text-align: center;
+    font-size: 30px;
+    color: aqua;
+}
+
+a{
+    text-decoration: none;
+    background-color: aliceblue;
+    padding: 5px;
+}
+
+a:hover{
+    background-color: black;
+    color: #fffff;
+
+}
+
+#table{
+    background-image: url(images/Table_image.jpg); width: 100%;
+}
